@@ -1,0 +1,7 @@
+select
+    NAME
+from
+    ANIMAL_INS
+order by
+    DATETIME ASC LIMIT 1
+;
